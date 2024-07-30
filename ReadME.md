@@ -1,4 +1,4 @@
-## Data Insights: Exploring Dimensionality, Clustering, and Shape Analysis
+## Exploring Dimensionality, Clustering, and Shape Analysis
 
 This repository contains the code and analysis for an assignment exploring different data analysis techniques, including dimensionality reduction, clustering, and shape analysis. The project aims to demonstrate the application and effectiveness of these techniques in understanding data patterns and relationships.
 
